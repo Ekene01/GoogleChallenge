@@ -37,13 +37,16 @@ public class MainActivity extends AppCompatActivity {
         display(quantity);
     }
 
+
     /**
      * This method is called when the order button is clicked.
      */
     public void submitOrder(View view) {
-        displayPrice(quantity * 5);
+        String priceMessage = "Total is $" + quantity * 5 + "\n Thank You";
+        displayMessage(priceMessage);
     }
 
+    // displayPrice(quantity * 5);
     /**
      * This method displays the given quantity value on the screen.
      */
@@ -58,6 +61,14 @@ public class MainActivity extends AppCompatActivity {
     private void displayPrice(int number) {
         TextView priceTextView = (TextView) findViewById(R.id.price_text_view);
         priceTextView.setText(NumberFormat.getCurrencyInstance().format(number));
+    }
+
+    /**
+     * This method displays the given text on the screen.
+     */
+    private void displayMessage(String message) {
+        TextView priceTextView = (TextView) findViewById(R.id.price_text_view);
+        priceTextView.setText(message);
     }
 
 
