@@ -1,0 +1,41 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="quiz_player_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="app_name">Music Trivia Quiz</string>
+
+    <string name="instructions">Instructions</string>
+    <string name="instruction_text">Answer all 5 questions. You get 5 points for each question you answer correctly.</string>
+
+    <string name="your_name">Your Name</string>
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_3">Question 3</string>
+    <string name="question_4">Question 4</string>
+    <string name="question_5">Question 5</string>
+    <string name="question_6">Question 6</string>
+    <string name="question_7">Question 7</string>
+    <string name="music_question_1">Whose 2013 world tour was called ‘The Mrs Carter Show’?</string>
+    <string name="music_question_2">What was Madonna’s first UK top ten single?</string>
+    <string name="music_question_3">Which country pop singer was born Eilleen Regina Edwards?</string>
+    <string name="music_question_4">The live album Beauty and the Beat featured pianist George Shearring and which singer?</string>
+    <string name="music_question_5">Whose band was the Tijuana Brass?</string>
+    <string name="music_question_6">Who were Cliff Richard’s backing group through the 60s? </string>
+    <string name="music_question_7">Stewart Copeland was the drummer with which band?</string>
+
+    <string name="question1_option1">Beyonce</string>
+    <string name="question1_option2">Shakira</string>
+
+    <string name="question2_option1">Material Girl</string>
+    <string name="question2_option2">Holiday</string>
+
+    <string name="question3_option1">Faith Hill</string>
+    <string name="question3_option2">Shania Twain</string>
+
+    <string name="question4_option1">Peggy Lee</string>
+    <string name="question4_option2">Doris Day</string>
+
+    <string name="question5_option1">Herb Alpert</string>
+    <string name="question5_option2">Sergio Mendes</string>
+
+    <string name="submit_quiz">Submit Quiz</string>
+    <string name="your_score">0</string>
+</resources>
