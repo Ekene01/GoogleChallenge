@@ -5,7 +5,7 @@ Author & Contributor List
 Ikoro Ekene
 
 ## Synopsis
-This program is a simple Music Trivia App designed using Android Studio. The app is a single activity app that displays questions and options for the user
+This program is a simple Music Trivia App designed using Android Studio. The application is a single activity app that displays questions and options for the user
 
 
 ## Motivation
